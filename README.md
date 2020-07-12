@@ -2,7 +2,7 @@
 
 Hi, I'm Lxxyx, a passionate self-taught frontEnd web developer from China.
 
-- 🔭 I’m currently working on Midway Serverless [ConvoyChat](https://github.com/midwayjs/midway)
+- 🔭 I’m currently working on [Midway Serverless](https://github.com/midwayjs/midway)
 - 🌱 I’m currently learning Serverless & Framework Design.
 - 💬 Ask me about anything [here](https://github.com/lxxyx/lxxyx/issues)
 
