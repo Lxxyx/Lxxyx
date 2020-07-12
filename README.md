@@ -1,27 +1,9 @@
-### Hi there 👋
-
-<!--
-**Lxxyx/Lxxyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ### Hi there, I'm [Lxxyx!](https://blog.lxxyx.cn) 👋
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
+Hi, I'm Lxxyx, a passionate self-taught frontEnd web developer from China.
 
-- 🔭 I’m currently working on Midway FaaS [ConvoyChat](https://github.com/anuraghazra/convoychat)
-- 🌱 I’m currently learning Serverless & Framework
+- 🔭 I’m currently working on Midway Serverless [ConvoyChat](https://github.com/midwayjs/midway)
+- 🌱 I’m currently learning Serverless & Framework Design.
 - 💬 Ask me about anything [here](https://github.com/lxxyx/lxxyx/issues)
 
 **Languages and Tools:**  
