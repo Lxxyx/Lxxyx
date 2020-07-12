@@ -18,12 +18,12 @@ Hi, I'm Lxxyx, a passionate self-taught frontEnd web developer from China.
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
 --->
 
-[![Lxxyx github stats](https://github-readme-stats.vercel.app/api?username=lxxyx&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Lxxyx github stats](https://github-readme-stats.vercel.app/api?username=lxxyx&show_icons=true&title_color=#000000&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=midwayjs&repo=midway&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=midwayjs&repo=midway&title_color=#000000" />
 </a>
 
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lxxyx&repo=LxxyxResume&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lxxyx&repo=LxxyxResume&title_color=#000000" />
 </a>
