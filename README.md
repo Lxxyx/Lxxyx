@@ -20,10 +20,10 @@ Hi, I'm Lxxyx, a passionate self-taught frontEnd web developer from China.
 
 [![Lxxyx github stats](https://github-readme-stats.vercel.app/api?username=lxxyx&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/midwayjs/midway">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=midwayjs&repo=midway&title_color=#000000" />
 </a>
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/Lxxyx/LxxyxResume">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lxxyx&repo=LxxyxResume&title_color=#000000" />
 </a>
