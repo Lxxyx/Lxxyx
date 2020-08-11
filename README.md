@@ -18,7 +18,7 @@ Hi, I'm Lxxyx, a passionate self-taught frontEnd web developer from China.
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
 --->
 
-[![Lxxyx github stats](https://github-readme-stats.vercel.app/api?username=lxxyx&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Lxxyx github stats](https://github-readme-stats.vercel.app/api?username=lxxyx&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Lxxyx Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxxyx)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/midwayjs/midway">
