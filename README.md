@@ -21,8 +21,8 @@ Hi, I'm Lxxyx, a passionate self-taught frontEnd web developer from China.
 [![Lxxyx github stats](https://github-readme-stats.vercel.app/api?username=lxxyx&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Lxxyx Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxxyx)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/midwayjs/midway">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=midwayjs&repo=midway&title_color=#000000" />
+<a href="https://github.com/midwayjs/hooks">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=midwayjs&repo=hooks&title_color=#000000" />
 </a>
 
 <a href="https://github.com/Lxxyx/LxxyxResume">
