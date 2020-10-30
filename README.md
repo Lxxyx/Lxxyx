@@ -2,7 +2,7 @@
 
 Hi, I'm Lxxyx, a passionate self-taught frontEnd web developer from China.
 
-- 🔭 I’m currently working on [Midway Serverless](https://github.com/midwayjs/midway) & [Midway Hooks](https://github.com/midwayjs/hooks)
+- 🔭 I’m currently working on  [Midway Hooks](https://github.com/midwayjs/hooks) & [Midway Serverless](https://github.com/midwayjs/midway)
 - 🌱 I’m currently learning Serverless & Framework Design.
 - 💬 Ask me about anything [here](https://github.com/lxxyx/lxxyx/issues)
 
