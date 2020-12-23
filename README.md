@@ -25,6 +25,6 @@ Hi, I'm Lxxyx, a passionate self-taught frontEnd web developer from China.
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=midwayjs&repo=hooks&title_color=#000000" />
 </a>
 
-<a href="https://github.com/Lxxyx/LxxyxResume">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lxxyx&repo=LxxyxResume&title_color=#000000" />
+<a href="https://github.com/nodejs/node">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nodejs&repo=node&title_color=#000000" />
 </a>
