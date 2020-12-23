@@ -10,11 +10,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 [![Lxxyx github stats](https://github-readme-stats.vercel.app/api?username=lxxyx&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/midwayjs/hooks">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=midwayjs&repo=hooks&title_color=#000000" />
-</a>
-
-<a href="https://github.com/nodejs/node">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nodejs&repo=node&title_color=#000000" />
-</a>
