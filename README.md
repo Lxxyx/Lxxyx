@@ -1,4 +1,4 @@
-### Hi there, I'm [Lxxyx!](https://blog.lxxyx.cn) 👋
+### Hi there, I'm [Lxxyx!](https://blog.lxxyx.cn)， You can call me ZiJian 👋
 
 - 🔭 I’m currently working on  [Midway Hooks](https://github.com/midwayjs/hooks) & [Node.js](https://github.com/nodejs/node)
 - 🌱 I’m currently learning Node.js.
